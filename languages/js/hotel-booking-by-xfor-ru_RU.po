@@ -1,0 +1,723 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hotel-booking-by-xfor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-02 13:03+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Igor Veselov <dev@xfor.top>\n"
+"Language-Team: xfor.top\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets/libs\n"
+
+#: assets/backend.js:9 assets/public.js:78
+msgid "January"
+msgstr "Январь"
+
+#: assets/backend.js:10 assets/public.js:79
+msgid "February"
+msgstr "Февраль"
+
+#: assets/backend.js:11 assets/public.js:80
+msgid "March"
+msgstr "Март"
+
+#: assets/backend.js:12 assets/public.js:81
+msgid "April"
+msgstr "Апрель"
+
+#: assets/backend.js:13 assets/backend.js:27 assets/public.js:68
+#: assets/public.js:82
+msgid "May"
+msgstr "Май"
+
+#: assets/backend.js:14 assets/public.js:83
+msgid "June"
+msgstr "Июнь"
+
+#: assets/backend.js:15 assets/public.js:84
+msgid "July"
+msgstr "Июль"
+
+#: assets/backend.js:16 assets/public.js:85
+msgid "August"
+msgstr "Август"
+
+#: assets/backend.js:17 assets/public.js:86
+msgid "September"
+msgstr "Сентябрь"
+
+#: assets/backend.js:18 assets/public.js:87
+msgid "October"
+msgstr "Октябрь"
+
+#: assets/backend.js:19 assets/public.js:88
+msgid "November"
+msgstr "Ноябрь"
+
+#: assets/backend.js:20 assets/public.js:89
+msgid "December"
+msgstr "Декабрь"
+
+#: assets/backend.js:23 assets/public.js:64
+msgid "Jan"
+msgstr "Янв"
+
+#: assets/backend.js:24 assets/public.js:65
+msgid "Feb"
+msgstr "Фев"
+
+#: assets/backend.js:25 assets/public.js:66
+msgid "Mar"
+msgstr "Мар"
+
+#: assets/backend.js:26 assets/public.js:67
+msgid "Apr"
+msgstr "Апр"
+
+#: assets/backend.js:28 assets/public.js:69
+msgid "Jun"
+msgstr "Июн"
+
+#: assets/backend.js:29 assets/public.js:70
+msgid "Jul"
+msgstr "Июл"
+
+#: assets/backend.js:30 assets/public.js:71
+msgid "Aug"
+msgstr "Авг"
+
+#: assets/backend.js:31 assets/public.js:72
+msgid "Sep"
+msgstr "Сен"
+
+#: assets/backend.js:32 assets/public.js:73
+msgid "Oct"
+msgstr "Окт"
+
+#: assets/backend.js:33 assets/public.js:74
+msgid "Nov"
+msgstr "Ноя"
+
+#: assets/backend.js:34 assets/public.js:75
+msgid "Dec"
+msgstr "Дек"
+
+#: assets/backend.js:37 assets/public.js:55
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: assets/backend.js:38 assets/public.js:56
+msgid "Monday"
+msgstr "Понедельник"
+
+#: assets/backend.js:39 assets/public.js:57
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: assets/backend.js:40 assets/public.js:58
+msgid "Wednesday"
+msgstr "Среда"
+
+#: assets/backend.js:41 assets/public.js:59
+msgid "Thursday"
+msgstr "Четверг"
+
+#: assets/backend.js:42 assets/public.js:60
+msgid "Friday"
+msgstr "Пятница"
+
+#: assets/backend.js:43 assets/public.js:61
+msgid "Saturday"
+msgstr "Суббота"
+
+#: assets/backend.js:46 assets/public.js:46
+msgid "Sun"
+msgstr "Вс"
+
+#: assets/backend.js:47 assets/public.js:47
+msgid "Mon"
+msgstr "Пн"
+
+#: assets/backend.js:48 assets/public.js:48
+msgid "Tue"
+msgstr "Вт"
+
+#: assets/backend.js:49 assets/public.js:49
+msgid "Wed"
+msgstr "Ср"
+
+#: assets/backend.js:50 assets/public.js:50
+msgid "Thu"
+msgstr "Чт"
+
+#: assets/backend.js:51 assets/public.js:51
+msgid "Fri"
+msgstr "Пт"
+
+#: assets/backend.js:52 assets/public.js:52
+msgid "Sat"
+msgstr "Сб"
+
+#: assets/backend.js:56
+msgid "Today"
+msgstr "Сегодня"
+
+#: assets/backend.js:57 assets/backend.js:91
+msgid "Day"
+msgstr "День"
+
+#: assets/backend.js:58
+msgid "Week"
+msgstr "Неделя"
+
+#: assets/backend.js:59 assets/backend.js:90
+msgid "Month"
+msgstr "Месяц"
+
+#: assets/backend.js:60
+msgid "New event"
+msgstr "Новое событие"
+
+#: assets/backend.js:61 assets/backend.js:696
+msgid "Save"
+msgstr "Сохранить"
+
+#: assets/backend.js:62 assets/backend.js:86
+msgid "Cancel"
+msgstr "Отмена"
+
+#: assets/backend.js:63
+msgid "Details"
+msgstr "Подробности"
+
+#: assets/backend.js:64
+msgid "Edit"
+msgstr "Править"
+
+#: assets/backend.js:65
+msgid "Delete"
+msgstr "Удалить"
+
+#: assets/backend.js:67
+msgid "Event will be deleted permanently, are you sure?"
+msgstr ""
+"Вы уверены, что мероприятие будет удалено без возможности восстановления?"
+
+#: assets/backend.js:68 assets/backend.js:79 assets/backend.js:690
+msgid "Description"
+msgstr "Описание"
+
+#: assets/backend.js:69
+msgid "Time period"
+msgstr "Временной период"
+
+#: assets/backend.js:70
+msgid "Full day"
+msgstr "Полный день"
+
+#: assets/backend.js:71
+msgid "Do you want to edit the whole set of repeated events?"
+msgstr "Вы хотите отредактировать весь набор повторяющихся событий?"
+
+#: assets/backend.js:72
+msgid "Repeat event"
+msgstr "Повторить мероприятие"
+
+#: assets/backend.js:73
+msgid "Disabled"
+msgstr "Отключено"
+
+#: assets/backend.js:74
+msgid "Enabled"
+msgstr "Включено"
+
+#: assets/backend.js:75
+msgid "Edit series"
+msgstr "Редактировать серию"
+
+#: assets/backend.js:76
+msgid "Edit occurrence"
+msgstr "Изменить вхождение"
+
+#: assets/backend.js:77 assets/backend.js:81
+msgid "Agenda"
+msgstr "Повестка дня"
+
+#: assets/backend.js:78 assets/backend.js:238
+msgid "Date"
+msgstr "Дата"
+
+#: assets/backend.js:80 assets/backend.js:89
+msgid "Year"
+msgstr "Год"
+
+#: assets/backend.js:82
+msgid "Grid"
+msgstr "Сетка"
+
+#: assets/backend.js:83
+msgid "Drag to create"
+msgstr "Перетащите, чтобы создать"
+
+#: assets/backend.js:84
+msgid "Drag to move"
+msgstr "Перетаскивать"
+
+#: assets/backend.js:85
+msgid "OK"
+msgstr "ОК"
+
+#: assets/backend.js:87
+msgid "Next"
+msgstr "Следующий"
+
+#: assets/backend.js:88
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: assets/backend.js:92
+msgid "Hour"
+msgstr "Часы"
+
+#: assets/backend.js:93
+msgid "Minute"
+msgstr "Минуты"
+
+#: assets/backend.js:231
+msgid "Fullname"
+msgstr "Имя Фамилия"
+
+#: assets/backend.js:232 assets/backend.js:873 assets/public.js:24
+msgid "Email"
+msgstr "Email"
+
+#: assets/backend.js:233 assets/backend.js:860 assets/public.js:23
+msgid "Phone"
+msgstr "Телефон"
+
+#: assets/backend.js:234 assets/backend.js:354 assets/backend.js:786
+#: assets/backend.js:861 includes/ajax.php:816
+msgid "Room"
+msgstr "Номер"
+
+#: assets/backend.js:235 assets/backend.js:873
+msgid "Noty"
+msgstr "Заметки"
+
+#: assets/backend.js:236 assets/backend.js:289 assets/backend.js:864
+#: assets/backend.js:1002 assets/backend.js:1015
+msgid "Status"
+msgstr "Статус"
+
+#: assets/backend.js:237
+msgid "Is paid"
+msgstr "Оплачено"
+
+#: assets/backend.js:285
+msgid "Number"
+msgstr "Номер"
+
+#: assets/backend.js:287
+msgid "Type"
+msgstr "Тип"
+
+#: assets/backend.js:355 assets/backend.js:862
+msgid "Check-in"
+msgstr "Заселение"
+
+#: assets/backend.js:356 assets/backend.js:862
+msgid "Check-out"
+msgstr "Выселение"
+
+#: assets/backend.js:371
+msgid "This room is already booked for this date."
+msgstr "Этот номер уже забронирован на эту дату."
+
+#: assets/backend.js:404
+msgid "All"
+msgstr "Все"
+
+#: assets/backend.js:414
+msgid "Full name is required!"
+msgstr "Имя фамилия обязательно!"
+
+#: assets/backend.js:436
+msgid "Filter by Type"
+msgstr "Фильтр по типу"
+
+#: assets/backend.js:463 backend/views/home.php:16
+msgid "Room Types"
+msgstr "Типы номеров"
+
+#: assets/backend.js:467
+msgid "Photo"
+msgstr "Фотография"
+
+#: assets/backend.js:468
+msgid "Name"
+msgstr "Имя"
+
+#: assets/backend.js:469 assets/public.js:6
+msgid "Capacity"
+msgstr "Вместимость"
+
+#: assets/backend.js:470 assets/backend.js:641 assets/backend.js:644
+#: assets/backend.js:863 assets/public.js:12
+msgid "Price"
+msgstr "Цена"
+
+#: assets/backend.js:482 assets/backend.js:631 assets/public.js:20
+msgid "m"
+msgstr "м"
+
+#: assets/backend.js:486
+msgid "Services"
+msgstr "Список услуг"
+
+#: assets/backend.js:490 assets/backend.js:684
+msgid "Comfort"
+msgstr "Удобства"
+
+#: assets/backend.js:628
+msgid "Add Room Type"
+msgstr "Добавить тип номера"
+
+#: assets/backend.js:629
+msgid "Shortcode"
+msgstr "Короткий код"
+
+#: assets/backend.js:630
+msgid "Title"
+msgstr "Заголовок"
+
+#: assets/backend.js:631 assets/public.js:5
+msgid "Area"
+msgstr "Площадь"
+
+#: assets/backend.js:632
+msgid "Capacity text"
+msgstr "Текст вместительность"
+
+#: assets/backend.js:634
+msgid "Additional Services"
+msgstr "Дополнительные услуги"
+
+#: assets/backend.js:653
+msgid "Photos"
+msgstr "Фотографии"
+
+#: assets/backend.js:679
+msgid "Upload photos"
+msgstr "Загрузить фото"
+
+#: assets/backend.js:701
+msgid "Add"
+msgstr "Добавить"
+
+#: assets/backend.js:767
+msgid "on"
+msgstr "вкл"
+
+#: assets/backend.js:768
+msgid "off"
+msgstr "выкл"
+
+#: assets/backend.js:771
+msgid "Add New Room"
+msgstr "Добавить номер"
+
+#: assets/backend.js:775 backend/views/home.php:13
+msgid "Rooms"
+msgstr "Номера"
+
+#: assets/backend.js:787
+msgid "Cleaning"
+msgstr "Уборка"
+
+#: assets/backend.js:854 backend/views/home.php:10
+msgid "Orders"
+msgstr "Заказы"
+
+#: assets/backend.js:859
+msgid "Customer"
+msgstr "Покупатель"
+
+#: assets/backend.js:924 backend/views/home.php:19
+msgid "Settings"
+msgstr "Настройки"
+
+#: assets/backend.js:928
+msgid "Room Statuses"
+msgstr "Статусы номеров"
+
+#: assets/backend.js:934
+msgid "Booking Statuses"
+msgstr "Статусы бронирования"
+
+#: assets/backend.js:940
+msgid "Comforts List"
+msgstr "Список удобств"
+
+#: assets/backend.js:946
+msgid "Services List"
+msgstr "Список услуг"
+
+#: assets/backend.js:952
+msgid "Sets List"
+msgstr "Список наборов"
+
+#: assets/backend.js:958
+msgid "Room Images"
+msgstr "Изображения номеров"
+
+#: assets/backend.js:960
+msgid "Large"
+msgstr "Большая"
+
+#: assets/backend.js:962
+msgid "Medium"
+msgstr "Средняя"
+
+#: assets/backend.js:964
+msgid "Small"
+msgstr "Маленькая"
+
+#: assets/backend.js:975
+msgid "Currencies"
+msgstr "Валюта"
+
+#: assets/backend.js:976 assets/backend.js:989
+msgid "Sign"
+msgstr "Знак"
+
+#: assets/backend.js:977 assets/backend.js:990
+msgid "Coef"
+msgstr "Коеф"
+
+#: assets/backend.js:988
+msgid "Currency"
+msgstr "Валюта"
+
+#: assets/backend.js:1000
+msgid "Promocodes"
+msgstr "Промокоды"
+
+#: assets/backend.js:1001 assets/backend.js:1014
+msgid "Sum"
+msgstr "Сумма"
+
+#: assets/backend.js:1013
+msgid "Promocode"
+msgstr "Промокод"
+
+#: assets/public.js:4
+msgid "My booking"
+msgstr "Моя бронь"
+
+#: assets/public.js:7
+msgid "To book"
+msgstr "Бронь"
+
+#: assets/public.js:8
+msgid "Guest"
+msgstr "Гость"
+
+#: assets/public.js:9
+msgid "Breakfast"
+msgstr "Завтрак"
+
+#: assets/public.js:10
+msgid "Parking"
+msgstr "Парковка"
+
+#: assets/public.js:11
+msgid "Arrival Time"
+msgstr "Время прибытия"
+
+#: assets/public.js:13
+msgid "Yes"
+msgstr "Да"
+
+#: assets/public.js:14
+msgid "No"
+msgstr "Нет"
+
+#: assets/public.js:15
+msgid "Promo code"
+msgstr "Промо код"
+
+#: assets/public.js:16 includes/ajax.php:814
+msgid "Arrival"
+msgstr "Прибытие"
+
+#: assets/public.js:17 includes/ajax.php:815
+msgid "Departure"
+msgstr "Отправление"
+
+#: assets/public.js:18
+msgid "Check availability"
+msgstr "Поиск"
+
+#: assets/public.js:19
+msgid "Time"
+msgstr "Время"
+
+#: assets/public.js:21
+msgid "Booking form"
+msgstr "Форма бронирования"
+
+#: assets/public.js:22
+msgid "Full Name"
+msgstr "Имя Фамилия"
+
+#: assets/public.js:25
+msgid "Wishes"
+msgstr "Пожелания"
+
+#: assets/public.js:26
+msgid "Send"
+msgstr "Отправить"
+
+#: assets/public.js:27
+msgid "Back"
+msgstr "Назад"
+
+#: assets/public.js:28
+msgid "left"
+msgstr "осталось"
+
+#: assets/public.js:29 assets/public.js:44
+msgid "Nights"
+msgstr "Ночей"
+
+#: assets/public.js:30
+msgid "Additional services"
+msgstr "Дополнительные услуги"
+
+#: assets/public.js:31
+msgid "Order Form"
+msgstr "Форма заказа"
+
+#: assets/public.js:32 includes/ajax.php:818
+msgid "Guests"
+msgstr "Гостей"
+
+#: assets/public.js:33
+msgid "Check booking"
+msgstr "Проверить бронь"
+
+#: assets/public.js:34
+msgid "Order id"
+msgstr "Заказ id"
+
+#: assets/public.js:35
+msgid "Check"
+msgstr "Проверить"
+
+#: assets/public.js:36
+msgid "Order Success"
+msgstr "Успешный заказ"
+
+#: assets/public.js:37
+msgid "Return"
+msgstr "Вернуться"
+
+#: assets/public.js:38
+msgid "This date is already taken"
+msgstr "Эта дата уже занята"
+
+#: assets/public.js:39
+msgid "per night"
+msgstr "за ночь"
+
+#: assets/public.js:43
+msgid "Night"
+msgstr "Ночь"
+
+#: backend/init.php:61 backend/init.php:62
+msgid "Hotel Booking"
+msgstr "Бронирование отеля"
+
+#: backend/views/home.php:7
+msgid "Dashboard"
+msgstr "Консоль"
+
+#: hotel-booking.php:13
+msgid ""
+"Plugin Hotel booking. Ideal solution for creating your own hotel's booking "
+"system."
+msgstr ""
+"Плагин Бронирование отелей. Идеальное решение для создания собственной "
+"системы бронирования отелей."
+
+#: includes/ajax.php:522
+msgid "File is not selected."
+msgstr "Файл не выбран."
+
+#: includes/ajax.php:530
+msgid "It is too large than expected."
+msgstr "Он слишком велик, чем ожидалось."
+
+#: includes/ajax.php:534
+msgid "WordPress doesn't allow this type of uploads."
+msgstr "WordPress не допускает загрузку такого типа."
+
+#: includes/ajax.php:809
+msgid "Sorry, your order not find"
+msgstr "Извините, ваш заказ не найден"
+
+#: includes/ajax.php:817
+msgid "Price per day"
+msgstr "Цена за сутки"
+
+#: includes/ajax.php:848
+msgid "Error not found available room"
+msgstr "Ошибка не найден доступный номер"
+
+#: includes/ajax.php:862
+msgid "days"
+msgstr "дней"
+
+#: includes/ajax.php:868
+msgid "add.services"
+msgstr "доп. услуги"
+
+#: includes/ajax.php:870
+msgid "arrival"
+msgstr "пребытие"
+
+#: includes/ajax.php:871
+msgid "breakfast"
+msgstr "завтрак"
+
+#: includes/ajax.php:872
+msgid "parking"
+msgstr "парковка"
+
+#: includes/ajax.php:891 includes/ajax.php:892
+msgid "New Order"
+msgstr "Новый заказ"
+
+#: includes/ajax.php:892
+msgid "check your site"
+msgstr "проверьте свой сайт"
+
+#~ msgid "Ready"
+#~ msgstr "Готов"
+
+#~ msgid "Dirty"
+#~ msgstr "Грязный"
+
+#~ msgid "Ready,Cleaning,Dirty"
+#~ msgstr "Готов,Уборка,Грязный"
